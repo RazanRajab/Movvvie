@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeCinema</string>
+    <string name="toolbarname">Home Cinema</string>
+    <string name="label">Home Cinema</string>
+    <string name="date">released at:</string>
+    <string name="rate">rated as:</string>
+
+    <string name="trailer_label">Movie Trailers:</string>
+    <string name="review_label">Reviews:</string>
+
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
